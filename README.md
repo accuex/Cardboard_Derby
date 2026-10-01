@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
 
 # 📦🏇 段ボール競馬 — Cardboard Derby
@@ -24,6 +27,8 @@
 > 3Dモデル（段ボール馬・スタンド・ゲート）、テクスチャ、ファンファーレや歓声などの音声は、すべて実行時にコードで生成しています。`docs/` にある画像・動画は README 用の紹介素材です。
 
 ### プレイ映像
+
+https://github.com/user-attachments/assets/787f3461-149d-46b4-88b0-acbdb02772cf
 
 ▶️ **[レース動画を再生（約3分）]**
 
